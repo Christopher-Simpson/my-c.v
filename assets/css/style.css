@@ -121,7 +121,7 @@ header {
     background: url("../images/mecvbw.jpg");
     background-position: center;
     background-repeat: no-repeat;
-    background-size: contain;
+    background-size: cover;
     min-height: 360px;
     transition: all .5s ease-in-out;
     -moz-transition: all .5s ease-in-out;
